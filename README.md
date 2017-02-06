@@ -33,4 +33,5 @@ We have defined some common ones below and welcome further community discussion 
  - content
  - footer
  - sidebar (Optional: Again, some themes may not have a sidebar as such, however they should still yield the content somewhere.)
+ - widgets
  - scripts (Scripts which are usually output before the closing body tag.)
