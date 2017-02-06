@@ -21,6 +21,8 @@ WIP:
 
 In order to enable user switching of themes they should use a consistent set of yields, slots and if applicable components.
 
+This idea is inspired by wordpress hooks, laravel community themes should create standardised area's to allow custom 'plugins' to also interact with the theme.
+
 We have defined some common ones below and welcome further community discussion on this via the issue board.
 
 #### Yields
@@ -35,3 +37,7 @@ We have defined some common ones below and welcome further community discussion 
  - sidebar (Optional: Again, some themes may not have a sidebar as such, however they should still yield the content somewhere.)
  - widgets
  - scripts (Scripts which are usually output before the closing body tag.)
+
+#### Components
+
+TODO
