@@ -13,7 +13,8 @@ WIP:
       "name": "yournamespace/laravel-theme-name",
       "type": "laravel-community-theme",
       "require": {
-        "paladindigital/laravel-theme-installer": "*"
+        "paladindigital/laravel-theme-installer": "dev-master"
+        "paladindigital/laravel-theme-loader": "dev-master"
       }
     }
 
