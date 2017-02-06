@@ -16,3 +16,11 @@ WIP:
         "paladindigital/laravel-theme-installer": "*"
       }
     }
+
+### Slots, Yields
+
+In order to enable user switching of themes they should use a consistent set of yields, slots and if applicable components.
+
+We have defined some common ones below and welcome further community discussion on this via the issue board.
+
+TODO
