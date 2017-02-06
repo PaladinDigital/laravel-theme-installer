@@ -6,4 +6,12 @@ Themes installed using this installer package creates a themes folder within the
  
 ## Creating a theme
 
-TODO
+WIP:
+
+### Composer.json
+    {
+      "type": "laravel-community-theme",
+      "require": {
+        "paladindigital/laravel-theme-installer": "*"
+      }
+    }
