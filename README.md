@@ -23,4 +23,14 @@ In order to enable user switching of themes they should use a consistent set of 
 
 We have defined some common ones below and welcome further community discussion on this via the issue board.
 
-TODO
+#### Yields
+
+ - head
+ - meta
+ - scripts
+ - navigation (The themes primary navigation area)
+ - secondary_navigation (Optional: May not be used on all themes, in which case output should be along side the primary navigation).
+ - content
+ - footer
+ - sidebar (Optional: Again, some themes may not have a sidebar as such, however they should still yield the content somewhere.)
+ - scripts (Scripts which are usually output before the closing body tag.)
