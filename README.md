@@ -10,6 +10,7 @@ WIP:
 
 ### Composer.json
     {
+      "name": "yournamespace/laravel-theme-name",
       "type": "laravel-community-theme",
       "require": {
         "paladindigital/laravel-theme-installer": "*"
