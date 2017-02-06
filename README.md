@@ -42,3 +42,13 @@ We have defined some common ones below and welcome further community discussion 
 #### Components
 
 TODO
+
+#### Child Themes
+
+Since themes should be developed using Blade templates, child themes can easily be created by simply extending the master theme.
+
+For example if you want to use the PaladinDigital Bootstrap template as a base simply create your master layout like so
+
+yourtheme/master.blade.php
+
+    @extends('themes::paladindigital.laravel-bootstrap.master')
