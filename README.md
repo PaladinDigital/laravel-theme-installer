@@ -51,4 +51,4 @@ For example if you want to use the PaladinDigital Bootstrap template as a base s
 
 yourtheme/master.blade.php
 
-    @extends('themes::paladindigital.laravel-bootstrap.master')
+    @extends('themes::paladindigital.laravel-bootstrap.master') 
