@@ -5,6 +5,9 @@
   "require": {
     "composer-plugin-api": "^1.0"
   },
+  "extra": {
+    "class": "PaladinDigital\\Composer\\Plugin\\LaravelTheme\\Plugin"
+  },
   "autoload": {
     "psr-4": {
       "PaladinDigital\\Composer\\Plugin\\LaravelTheme\\": "src/"
