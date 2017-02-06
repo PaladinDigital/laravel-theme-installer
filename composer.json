@@ -1,0 +1,13 @@
+{
+  "name": "paladindigital/laravel-theme-installer",
+  "description": "Laravel Theme Installer Plugin",
+  "type": "composer-plugin",
+  "require": {
+    "composer-plugin-api": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PaladinDigital\\Composer\\Plugin\\LaravelTheme\\": "src/"
+    }
+  }
+}
