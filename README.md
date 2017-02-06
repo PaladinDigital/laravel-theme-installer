@@ -29,7 +29,7 @@ We have defined some common ones below and welcome further community discussion 
 
  - head
  - meta
- - scripts
+ - styles
  - navigation (The themes primary navigation area)
  - secondary_navigation (Optional: May not be used on all themes, in which case output should be along side the primary navigation).
  - content
